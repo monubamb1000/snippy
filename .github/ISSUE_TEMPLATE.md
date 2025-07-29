@@ -4,6 +4,8 @@ IF SUFFICIENT INFORMATION IS NOT PROVIDED VIA THE FOLLOWING TEMPLATE THE ISSUE M
 > Please provide us with the following information:
 > ---------------------------------------------------------------
 
+<!-- MONU COMMENT>
+
 ### This issue is for a: (mark with an `x`)
 ```
 - [ ] bug report -> please search issues before submitting
